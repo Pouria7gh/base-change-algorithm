@@ -1,0 +1,14 @@
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\bin\Debug\net8.0\BaseChangeAlgorithm.exe
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\bin\Debug\net8.0\BaseChangeAlgorithm.deps.json
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\bin\Debug\net8.0\BaseChangeAlgorithm.runtimeconfig.json
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\bin\Debug\net8.0\BaseChangeAlgorithm.dll
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\bin\Debug\net8.0\BaseChangeAlgorithm.pdb
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.AssemblyInfoInputs.cache
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.AssemblyInfo.cs
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.csproj.CoreCompileInputs.cache
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.dll
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\refint\BaseChangeAlgorithm.dll
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.pdb
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.genruntimeconfig.cache
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\ref\BaseChangeAlgorithm.dll
