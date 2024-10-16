@@ -12,3 +12,4 @@ C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\refint\Base
 C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.pdb
 C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.genruntimeconfig.cache
 C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\ref\BaseChangeAlgorithm.dll
+C:\Projects\BaseChangeAlgorithm\BaseChangeAlgorithm\obj\Debug\net8.0\BaseChangeAlgorithm.sourcelink.json

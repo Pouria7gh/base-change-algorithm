@@ -3,10 +3,12 @@
 bool exit = false;
 while(exit == false)
 {
+    System.Console.WriteLine("------------------------------------------------");
     Console.WriteLine("Insert {1} to convert base 10 into base 2.");
     Console.WriteLine("Insert {2} to convert base 10 into base 8.");
     Console.WriteLine("Insert {3} to convert base 10 into base 16.");
     Console.WriteLine("Insert {0} to exit.");
+    System.Console.WriteLine("------------------------------------------------");
     string optionsInput = Console.ReadLine();
     try
     {
